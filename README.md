@@ -1,5 +1,4 @@
 # VERSÃO 3
-<img src="https://p.turbosquid.com/ts-thumb/no/DO3F0h/aA/poopemojismilebigeyes3dsmodel001/jpg/1634199038/600x600/fit_q87/241f9a09664adeb71c33e7c36a2c9dceea0b319b/poopemojismilebigeyes3dsmodel001.jpg">
 
 # Aula prática - Markdown💋
 
