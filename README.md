@@ -1,4 +1,5 @@
-# VERSÃO DOIS
+# ☆ VERSÃO DOIS ☆
+
 
 # Aula prática - Markdown💋
 
@@ -36,4 +37,4 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 | UC2 | 𝘋𝘦𝘴𝘦𝘯𝘷𝘰𝘭𝘷𝘪𝘮𝘦𝘯𝘵𝘰 | É uma etapa crítica no desenvolvimento de software, que exige habilidades de comunicação, análise e gerenciamento de projetos. Uma abordagem cuidadosa e sistemática na captura e gerenciamento de requisitos é fundamental para o sucesso de qualquer projeto de software. |
 | UC3 | 𝘊𝘰𝘯𝘤𝘭𝘶𝘴ã𝘰 | Além disso, reconhecemos que a Engenharia de Requisitos é uma disciplina dinâmica e interdisciplinar, que exige habilidades de comunicação, análise e resolução de problemas. Através do uso de técnicas de elicitação, documentação clara, gerenciamento de mudanças e validação de requisitos, podemos minimizar os riscos e maximizar a qualidade dos sistemas desenvolvidos.|
 
-# VERSÃO 
+
